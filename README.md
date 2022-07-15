@@ -17,6 +17,7 @@ Discord Status Changer Written in Node-JS definitely not self-bot (why do i say 
 4. Once you found this
 
 ![image](https://media.discordapp.net/attachments/950201800416456717/997413389909364827/unknown.png?width=534&height=473)
+
 5. Scroll down until you find authorization (this mean you've found your token)
 
 ![image](https://media.discordapp.net/attachments/950201800416456717/997413716293328956/unknown.png)
